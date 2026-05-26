@@ -155,8 +155,8 @@ This project helps in understanding:
 
 ## Author
 
-Created by Abhishek
+Created by Abhishek Suman
 
 ## License
 
-This project is open-so
+This project is open-source and available for educational purposes.
